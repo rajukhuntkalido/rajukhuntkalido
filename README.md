@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 📈 My GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rkrajukhunt&show_icons=true&theme=gotham" alt="rkrajukhunt" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rajukhuntkalido&show_icons=true&theme=gotham" alt="rajukhuntkalido" />
